@@ -11,8 +11,8 @@
     },
     {
       "label": "Active records",
-      "value": "7",
-      "delta": "+3"
+      "value": "100",
+      "delta": "100 seeded"
     },
     {
       "label": "Workflow steps",
@@ -28,30 +28,1003 @@
   "records": [
     {
       "id": "shiftmate-1",
-      "title": "Weekend supervisor gap",
+      "title": "Weekend supervisor gap #001",
       "status": "Coverage gaps",
       "owner": "Roster board",
-      "score": 92,
+      "score": 42,
       "trend": "High attention",
-      "updated": "8 min ago"
+      "updated": "8 min ago",
+      "demoSeed": true
     },
     {
       "id": "shiftmate-2",
-      "title": "Swap request approved",
+      "title": "Swap request approved #002",
       "status": "Swap eligibility",
       "owner": "Swap flow",
-      "score": 80,
+      "score": 49,
       "trend": "In progress",
-      "updated": "19 min ago"
+      "updated": "13 min ago",
+      "demoSeed": true
     },
     {
       "id": "shiftmate-3",
-      "title": "Overtime risk alert",
+      "title": "Overtime risk alert #003",
       "status": "Overtime risk",
       "owner": "Coverage dashboard",
+      "score": 56,
+      "trend": "Ready",
+      "updated": "18 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-4",
+      "title": "Weekend supervisor gap #004",
+      "status": "Change digest",
+      "owner": "Team digest",
+      "score": 63,
+      "trend": "High attention",
+      "updated": "23 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-5",
+      "title": "Swap request approved #005",
+      "status": "Coverage gaps",
+      "owner": "Roster board",
+      "score": 70,
+      "trend": "In progress",
+      "updated": "28 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-6",
+      "title": "Overtime risk alert #006",
+      "status": "Swap eligibility",
+      "owner": "Swap flow",
+      "score": 77,
+      "trend": "Ready",
+      "updated": "33 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-7",
+      "title": "Weekend supervisor gap #007",
+      "status": "Overtime risk",
+      "owner": "Coverage dashboard",
+      "score": 84,
+      "trend": "High attention",
+      "updated": "38 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-8",
+      "title": "Swap request approved #008",
+      "status": "Change digest",
+      "owner": "Team digest",
+      "score": 91,
+      "trend": "In progress",
+      "updated": "43 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-9",
+      "title": "Overtime risk alert #009",
+      "status": "Coverage gaps",
+      "owner": "Roster board",
+      "score": 98,
+      "trend": "Ready",
+      "updated": "48 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-10",
+      "title": "Weekend supervisor gap #010",
+      "status": "Swap eligibility",
+      "owner": "Swap flow",
+      "score": 48,
+      "trend": "High attention",
+      "updated": "53 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-11",
+      "title": "Swap request approved #011",
+      "status": "Overtime risk",
+      "owner": "Coverage dashboard",
+      "score": 55,
+      "trend": "In progress",
+      "updated": "58 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-12",
+      "title": "Overtime risk alert #012",
+      "status": "Change digest",
+      "owner": "Team digest",
+      "score": 62,
+      "trend": "Ready",
+      "updated": "63 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-13",
+      "title": "Weekend supervisor gap #013",
+      "status": "Coverage gaps",
+      "owner": "Roster board",
+      "score": 69,
+      "trend": "High attention",
+      "updated": "68 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-14",
+      "title": "Swap request approved #014",
+      "status": "Swap eligibility",
+      "owner": "Swap flow",
+      "score": 76,
+      "trend": "In progress",
+      "updated": "73 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-15",
+      "title": "Overtime risk alert #015",
+      "status": "Overtime risk",
+      "owner": "Coverage dashboard",
+      "score": 83,
+      "trend": "Ready",
+      "updated": "78 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-16",
+      "title": "Weekend supervisor gap #016",
+      "status": "Change digest",
+      "owner": "Team digest",
+      "score": 90,
+      "trend": "High attention",
+      "updated": "83 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-17",
+      "title": "Swap request approved #017",
+      "status": "Coverage gaps",
+      "owner": "Roster board",
+      "score": 97,
+      "trend": "In progress",
+      "updated": "88 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-18",
+      "title": "Overtime risk alert #018",
+      "status": "Swap eligibility",
+      "owner": "Swap flow",
+      "score": 47,
+      "trend": "Ready",
+      "updated": "93 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-19",
+      "title": "Weekend supervisor gap #019",
+      "status": "Overtime risk",
+      "owner": "Coverage dashboard",
+      "score": 54,
+      "trend": "High attention",
+      "updated": "98 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-20",
+      "title": "Swap request approved #020",
+      "status": "Change digest",
+      "owner": "Team digest",
+      "score": 61,
+      "trend": "In progress",
+      "updated": "103 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-21",
+      "title": "Overtime risk alert #021",
+      "status": "Coverage gaps",
+      "owner": "Roster board",
       "score": 68,
       "trend": "Ready",
-      "updated": "30 min ago"
+      "updated": "108 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-22",
+      "title": "Weekend supervisor gap #022",
+      "status": "Swap eligibility",
+      "owner": "Swap flow",
+      "score": 75,
+      "trend": "High attention",
+      "updated": "113 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-23",
+      "title": "Swap request approved #023",
+      "status": "Overtime risk",
+      "owner": "Coverage dashboard",
+      "score": 82,
+      "trend": "In progress",
+      "updated": "118 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-24",
+      "title": "Overtime risk alert #024",
+      "status": "Change digest",
+      "owner": "Team digest",
+      "score": 89,
+      "trend": "Ready",
+      "updated": "123 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-25",
+      "title": "Weekend supervisor gap #025",
+      "status": "Coverage gaps",
+      "owner": "Roster board",
+      "score": 96,
+      "trend": "High attention",
+      "updated": "128 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-26",
+      "title": "Swap request approved #026",
+      "status": "Swap eligibility",
+      "owner": "Swap flow",
+      "score": 46,
+      "trend": "In progress",
+      "updated": "133 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-27",
+      "title": "Overtime risk alert #027",
+      "status": "Overtime risk",
+      "owner": "Coverage dashboard",
+      "score": 53,
+      "trend": "Ready",
+      "updated": "138 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-28",
+      "title": "Weekend supervisor gap #028",
+      "status": "Change digest",
+      "owner": "Team digest",
+      "score": 60,
+      "trend": "High attention",
+      "updated": "143 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-29",
+      "title": "Swap request approved #029",
+      "status": "Coverage gaps",
+      "owner": "Roster board",
+      "score": 67,
+      "trend": "In progress",
+      "updated": "148 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-30",
+      "title": "Overtime risk alert #030",
+      "status": "Swap eligibility",
+      "owner": "Swap flow",
+      "score": 74,
+      "trend": "Ready",
+      "updated": "153 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-31",
+      "title": "Weekend supervisor gap #031",
+      "status": "Overtime risk",
+      "owner": "Coverage dashboard",
+      "score": 81,
+      "trend": "High attention",
+      "updated": "158 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-32",
+      "title": "Swap request approved #032",
+      "status": "Change digest",
+      "owner": "Team digest",
+      "score": 88,
+      "trend": "In progress",
+      "updated": "163 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-33",
+      "title": "Overtime risk alert #033",
+      "status": "Coverage gaps",
+      "owner": "Roster board",
+      "score": 95,
+      "trend": "Ready",
+      "updated": "168 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-34",
+      "title": "Weekend supervisor gap #034",
+      "status": "Swap eligibility",
+      "owner": "Swap flow",
+      "score": 45,
+      "trend": "High attention",
+      "updated": "173 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-35",
+      "title": "Swap request approved #035",
+      "status": "Overtime risk",
+      "owner": "Coverage dashboard",
+      "score": 52,
+      "trend": "In progress",
+      "updated": "178 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-36",
+      "title": "Overtime risk alert #036",
+      "status": "Change digest",
+      "owner": "Team digest",
+      "score": 59,
+      "trend": "Ready",
+      "updated": "183 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-37",
+      "title": "Weekend supervisor gap #037",
+      "status": "Coverage gaps",
+      "owner": "Roster board",
+      "score": 66,
+      "trend": "High attention",
+      "updated": "188 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-38",
+      "title": "Swap request approved #038",
+      "status": "Swap eligibility",
+      "owner": "Swap flow",
+      "score": 73,
+      "trend": "In progress",
+      "updated": "193 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-39",
+      "title": "Overtime risk alert #039",
+      "status": "Overtime risk",
+      "owner": "Coverage dashboard",
+      "score": 80,
+      "trend": "Ready",
+      "updated": "198 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-40",
+      "title": "Weekend supervisor gap #040",
+      "status": "Change digest",
+      "owner": "Team digest",
+      "score": 87,
+      "trend": "High attention",
+      "updated": "203 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-41",
+      "title": "Swap request approved #041",
+      "status": "Coverage gaps",
+      "owner": "Roster board",
+      "score": 94,
+      "trend": "In progress",
+      "updated": "208 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-42",
+      "title": "Overtime risk alert #042",
+      "status": "Swap eligibility",
+      "owner": "Swap flow",
+      "score": 44,
+      "trend": "Ready",
+      "updated": "213 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-43",
+      "title": "Weekend supervisor gap #043",
+      "status": "Overtime risk",
+      "owner": "Coverage dashboard",
+      "score": 51,
+      "trend": "High attention",
+      "updated": "218 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-44",
+      "title": "Swap request approved #044",
+      "status": "Change digest",
+      "owner": "Team digest",
+      "score": 58,
+      "trend": "In progress",
+      "updated": "223 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-45",
+      "title": "Overtime risk alert #045",
+      "status": "Coverage gaps",
+      "owner": "Roster board",
+      "score": 65,
+      "trend": "Ready",
+      "updated": "228 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-46",
+      "title": "Weekend supervisor gap #046",
+      "status": "Swap eligibility",
+      "owner": "Swap flow",
+      "score": 72,
+      "trend": "High attention",
+      "updated": "233 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-47",
+      "title": "Swap request approved #047",
+      "status": "Overtime risk",
+      "owner": "Coverage dashboard",
+      "score": 79,
+      "trend": "In progress",
+      "updated": "238 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-48",
+      "title": "Overtime risk alert #048",
+      "status": "Change digest",
+      "owner": "Team digest",
+      "score": 86,
+      "trend": "Ready",
+      "updated": "243 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-49",
+      "title": "Weekend supervisor gap #049",
+      "status": "Coverage gaps",
+      "owner": "Roster board",
+      "score": 93,
+      "trend": "High attention",
+      "updated": "248 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-50",
+      "title": "Swap request approved #050",
+      "status": "Swap eligibility",
+      "owner": "Swap flow",
+      "score": 43,
+      "trend": "In progress",
+      "updated": "253 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-51",
+      "title": "Overtime risk alert #051",
+      "status": "Overtime risk",
+      "owner": "Coverage dashboard",
+      "score": 50,
+      "trend": "Ready",
+      "updated": "258 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-52",
+      "title": "Weekend supervisor gap #052",
+      "status": "Change digest",
+      "owner": "Team digest",
+      "score": 57,
+      "trend": "High attention",
+      "updated": "263 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-53",
+      "title": "Swap request approved #053",
+      "status": "Coverage gaps",
+      "owner": "Roster board",
+      "score": 64,
+      "trend": "In progress",
+      "updated": "268 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-54",
+      "title": "Overtime risk alert #054",
+      "status": "Swap eligibility",
+      "owner": "Swap flow",
+      "score": 71,
+      "trend": "Ready",
+      "updated": "273 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-55",
+      "title": "Weekend supervisor gap #055",
+      "status": "Overtime risk",
+      "owner": "Coverage dashboard",
+      "score": 78,
+      "trend": "High attention",
+      "updated": "278 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-56",
+      "title": "Swap request approved #056",
+      "status": "Change digest",
+      "owner": "Team digest",
+      "score": 85,
+      "trend": "In progress",
+      "updated": "283 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-57",
+      "title": "Overtime risk alert #057",
+      "status": "Coverage gaps",
+      "owner": "Roster board",
+      "score": 92,
+      "trend": "Ready",
+      "updated": "288 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-58",
+      "title": "Weekend supervisor gap #058",
+      "status": "Swap eligibility",
+      "owner": "Swap flow",
+      "score": 42,
+      "trend": "High attention",
+      "updated": "293 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-59",
+      "title": "Swap request approved #059",
+      "status": "Overtime risk",
+      "owner": "Coverage dashboard",
+      "score": 49,
+      "trend": "In progress",
+      "updated": "298 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-60",
+      "title": "Overtime risk alert #060",
+      "status": "Change digest",
+      "owner": "Team digest",
+      "score": 56,
+      "trend": "Ready",
+      "updated": "303 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-61",
+      "title": "Weekend supervisor gap #061",
+      "status": "Coverage gaps",
+      "owner": "Roster board",
+      "score": 63,
+      "trend": "High attention",
+      "updated": "308 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-62",
+      "title": "Swap request approved #062",
+      "status": "Swap eligibility",
+      "owner": "Swap flow",
+      "score": 70,
+      "trend": "In progress",
+      "updated": "313 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-63",
+      "title": "Overtime risk alert #063",
+      "status": "Overtime risk",
+      "owner": "Coverage dashboard",
+      "score": 77,
+      "trend": "Ready",
+      "updated": "318 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-64",
+      "title": "Weekend supervisor gap #064",
+      "status": "Change digest",
+      "owner": "Team digest",
+      "score": 84,
+      "trend": "High attention",
+      "updated": "323 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-65",
+      "title": "Swap request approved #065",
+      "status": "Coverage gaps",
+      "owner": "Roster board",
+      "score": 91,
+      "trend": "In progress",
+      "updated": "328 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-66",
+      "title": "Overtime risk alert #066",
+      "status": "Swap eligibility",
+      "owner": "Swap flow",
+      "score": 98,
+      "trend": "Ready",
+      "updated": "333 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-67",
+      "title": "Weekend supervisor gap #067",
+      "status": "Overtime risk",
+      "owner": "Coverage dashboard",
+      "score": 48,
+      "trend": "High attention",
+      "updated": "338 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-68",
+      "title": "Swap request approved #068",
+      "status": "Change digest",
+      "owner": "Team digest",
+      "score": 55,
+      "trend": "In progress",
+      "updated": "343 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-69",
+      "title": "Overtime risk alert #069",
+      "status": "Coverage gaps",
+      "owner": "Roster board",
+      "score": 62,
+      "trend": "Ready",
+      "updated": "348 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-70",
+      "title": "Weekend supervisor gap #070",
+      "status": "Swap eligibility",
+      "owner": "Swap flow",
+      "score": 69,
+      "trend": "High attention",
+      "updated": "353 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-71",
+      "title": "Swap request approved #071",
+      "status": "Overtime risk",
+      "owner": "Coverage dashboard",
+      "score": 76,
+      "trend": "In progress",
+      "updated": "358 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-72",
+      "title": "Overtime risk alert #072",
+      "status": "Change digest",
+      "owner": "Team digest",
+      "score": 83,
+      "trend": "Ready",
+      "updated": "363 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-73",
+      "title": "Weekend supervisor gap #073",
+      "status": "Coverage gaps",
+      "owner": "Roster board",
+      "score": 90,
+      "trend": "High attention",
+      "updated": "368 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-74",
+      "title": "Swap request approved #074",
+      "status": "Swap eligibility",
+      "owner": "Swap flow",
+      "score": 97,
+      "trend": "In progress",
+      "updated": "373 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-75",
+      "title": "Overtime risk alert #075",
+      "status": "Overtime risk",
+      "owner": "Coverage dashboard",
+      "score": 47,
+      "trend": "Ready",
+      "updated": "378 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-76",
+      "title": "Weekend supervisor gap #076",
+      "status": "Change digest",
+      "owner": "Team digest",
+      "score": 54,
+      "trend": "High attention",
+      "updated": "383 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-77",
+      "title": "Swap request approved #077",
+      "status": "Coverage gaps",
+      "owner": "Roster board",
+      "score": 61,
+      "trend": "In progress",
+      "updated": "388 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-78",
+      "title": "Overtime risk alert #078",
+      "status": "Swap eligibility",
+      "owner": "Swap flow",
+      "score": 68,
+      "trend": "Ready",
+      "updated": "393 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-79",
+      "title": "Weekend supervisor gap #079",
+      "status": "Overtime risk",
+      "owner": "Coverage dashboard",
+      "score": 75,
+      "trend": "High attention",
+      "updated": "398 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-80",
+      "title": "Swap request approved #080",
+      "status": "Change digest",
+      "owner": "Team digest",
+      "score": 82,
+      "trend": "In progress",
+      "updated": "403 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-81",
+      "title": "Overtime risk alert #081",
+      "status": "Coverage gaps",
+      "owner": "Roster board",
+      "score": 89,
+      "trend": "Ready",
+      "updated": "408 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-82",
+      "title": "Weekend supervisor gap #082",
+      "status": "Swap eligibility",
+      "owner": "Swap flow",
+      "score": 96,
+      "trend": "High attention",
+      "updated": "413 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-83",
+      "title": "Swap request approved #083",
+      "status": "Overtime risk",
+      "owner": "Coverage dashboard",
+      "score": 46,
+      "trend": "In progress",
+      "updated": "418 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-84",
+      "title": "Overtime risk alert #084",
+      "status": "Change digest",
+      "owner": "Team digest",
+      "score": 53,
+      "trend": "Ready",
+      "updated": "423 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-85",
+      "title": "Weekend supervisor gap #085",
+      "status": "Coverage gaps",
+      "owner": "Roster board",
+      "score": 60,
+      "trend": "High attention",
+      "updated": "428 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-86",
+      "title": "Swap request approved #086",
+      "status": "Swap eligibility",
+      "owner": "Swap flow",
+      "score": 67,
+      "trend": "In progress",
+      "updated": "433 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-87",
+      "title": "Overtime risk alert #087",
+      "status": "Overtime risk",
+      "owner": "Coverage dashboard",
+      "score": 74,
+      "trend": "Ready",
+      "updated": "438 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-88",
+      "title": "Weekend supervisor gap #088",
+      "status": "Change digest",
+      "owner": "Team digest",
+      "score": 81,
+      "trend": "High attention",
+      "updated": "443 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-89",
+      "title": "Swap request approved #089",
+      "status": "Coverage gaps",
+      "owner": "Roster board",
+      "score": 88,
+      "trend": "In progress",
+      "updated": "448 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-90",
+      "title": "Overtime risk alert #090",
+      "status": "Swap eligibility",
+      "owner": "Swap flow",
+      "score": 95,
+      "trend": "Ready",
+      "updated": "453 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-91",
+      "title": "Weekend supervisor gap #091",
+      "status": "Overtime risk",
+      "owner": "Coverage dashboard",
+      "score": 45,
+      "trend": "High attention",
+      "updated": "458 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-92",
+      "title": "Swap request approved #092",
+      "status": "Change digest",
+      "owner": "Team digest",
+      "score": 52,
+      "trend": "In progress",
+      "updated": "463 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-93",
+      "title": "Overtime risk alert #093",
+      "status": "Coverage gaps",
+      "owner": "Roster board",
+      "score": 59,
+      "trend": "Ready",
+      "updated": "468 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-94",
+      "title": "Weekend supervisor gap #094",
+      "status": "Swap eligibility",
+      "owner": "Swap flow",
+      "score": 66,
+      "trend": "High attention",
+      "updated": "473 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-95",
+      "title": "Swap request approved #095",
+      "status": "Overtime risk",
+      "owner": "Coverage dashboard",
+      "score": 73,
+      "trend": "In progress",
+      "updated": "478 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-96",
+      "title": "Overtime risk alert #096",
+      "status": "Change digest",
+      "owner": "Team digest",
+      "score": 80,
+      "trend": "Ready",
+      "updated": "483 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-97",
+      "title": "Weekend supervisor gap #097",
+      "status": "Coverage gaps",
+      "owner": "Roster board",
+      "score": 87,
+      "trend": "High attention",
+      "updated": "488 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-98",
+      "title": "Swap request approved #098",
+      "status": "Swap eligibility",
+      "owner": "Swap flow",
+      "score": 94,
+      "trend": "In progress",
+      "updated": "493 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-99",
+      "title": "Overtime risk alert #099",
+      "status": "Overtime risk",
+      "owner": "Coverage dashboard",
+      "score": 44,
+      "trend": "Ready",
+      "updated": "498 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "shiftmate-100",
+      "title": "Weekend supervisor gap #100",
+      "status": "Change digest",
+      "owner": "Team digest",
+      "score": 51,
+      "trend": "High attention",
+      "updated": "503 min ago",
+      "demoSeed": true
     }
   ],
   "workflow": [
