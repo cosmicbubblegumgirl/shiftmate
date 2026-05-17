@@ -1,0 +1,96 @@
+{
+  "product": "ShiftMate",
+  "category": "Workforce Scheduling",
+  "backend": "GitHub Pages static JSON endpoint plus localStorage write simulation.",
+  "generatedBy": "Simone Govender",
+  "metrics": [
+    {
+      "label": "Coverage health",
+      "value": "86%",
+      "delta": "+12%"
+    },
+    {
+      "label": "Active records",
+      "value": "7",
+      "delta": "+3"
+    },
+    {
+      "label": "Workflow steps",
+      "value": "4",
+      "delta": "mapped"
+    },
+    {
+      "label": "Local saves",
+      "value": "on",
+      "delta": "browser"
+    }
+  ],
+  "records": [
+    {
+      "id": "shiftmate-1",
+      "title": "Weekend supervisor gap",
+      "status": "Coverage gaps",
+      "owner": "Roster board",
+      "score": 92,
+      "trend": "High attention",
+      "updated": "8 min ago"
+    },
+    {
+      "id": "shiftmate-2",
+      "title": "Swap request approved",
+      "status": "Swap eligibility",
+      "owner": "Swap flow",
+      "score": 80,
+      "trend": "In progress",
+      "updated": "19 min ago"
+    },
+    {
+      "id": "shiftmate-3",
+      "title": "Overtime risk alert",
+      "status": "Overtime risk",
+      "owner": "Coverage dashboard",
+      "score": 68,
+      "trend": "Ready",
+      "updated": "30 min ago"
+    }
+  ],
+  "workflow": [
+    {
+      "step": 1,
+      "title": "Coverage gaps",
+      "detail": "ShiftMate uses coverage gaps to support roster board decisions for operations managers and frontline teams."
+    },
+    {
+      "step": 2,
+      "title": "Swap eligibility",
+      "detail": "ShiftMate uses swap eligibility to support swap flow decisions for operations managers and frontline teams."
+    },
+    {
+      "step": 3,
+      "title": "Overtime risk",
+      "detail": "ShiftMate uses overtime risk to support coverage dashboard decisions for operations managers and frontline teams."
+    },
+    {
+      "step": 4,
+      "title": "Change digest",
+      "detail": "ShiftMate uses change digest to support team digest decisions for operations managers and frontline teams."
+    }
+  ],
+  "activity": [
+    {
+      "title": "Reduce manager guesswork",
+      "time": "1h",
+      "kind": "Coverage gaps"
+    },
+    {
+      "title": "Make swaps fair and traceable",
+      "time": "2h",
+      "kind": "Swap eligibility"
+    },
+    {
+      "title": "Keep teams informed before shift day",
+      "time": "3h",
+      "kind": "Overtime risk"
+    }
+  ]
+}
